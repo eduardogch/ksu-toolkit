@@ -23,9 +23,7 @@ __For my research__: IT Strategy is a far reaching plan that portrays how innova
 
 Present day association are embracing new apparatuses to make their **IT Policy**. In the wake of leading on the web explore I went over a this Garner report [Link](https://www.gartner.com/smarterwithgartner/gartner-top-10-strategic-technology-trends-for-2018/) has some economical fact that cutting-edge association are utilizing to make their IT strategies. 
 
-```markdown
 What grabbed my attention is that a portion of the instruments and programming they referenced in the article I use them as of now (for example Grammarly, Evernote, and so on.). They additionally have devices that will help an association in the production of work processes, mind-mapping or conceptualizing, arranging contemplations, strategy composing instruments, language simplifiers, and some more. 
-```
 
 I'm using Github because my I want an IT professional toolkit opensource and the best and simple tool is using GitHub pages.  https://eduardogch.github.io/ksu-toolkit/
 
