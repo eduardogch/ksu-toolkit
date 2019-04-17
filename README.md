@@ -23,7 +23,7 @@ Visit my Twitter [![alt text][1.1]][1] and Github [![alt text][6.1]][6] accounts
 ## References :)
 Title           | Author               | Link
 ---             | ---                  | ---
-IT Policy Framework Based on COBIT 5                                    | Carrillo, J.                          | [Reference](tps://www.isaca.org/Journal/archives/2013/Volume-1/Pages/IT-Policy-Framework-Based-on-COBIT-5.aspx)
+IT Policy Framework Based on COBIT 5                                    | Carrillo, J.                          | [Reference](https://www.isaca.org/Journal/archives/2013/Volume-1/Pages/IT-Policy-Framework-Based-on-COBIT-5.aspx)
 What is IT governance? A formal way to align IT & business strategy     | Dynamix Solutions Managed IT Services | [Reference](https://www.dynamixsolutions.com/what-is-an-it-professional-and-what-does-one-do)
 What is an IT Professional And What Does One Do?                        | Kim Lindros                           | [Reference](https://www.cio.com/article/2438931/governance/governanceit-governance-definition-and-solutions.html)
 
