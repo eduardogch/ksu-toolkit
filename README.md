@@ -6,14 +6,14 @@
 
 ## Home
 
-<div>
+<p>
   <p align="left">
     <img src="https://raw.githubusercontent.com/eduardogch/ksu-toolkit/master/photo.jpg" width="200" title="hover text">
   </p>
   <p align="right">
   Hello my name is **Jose Gonzalez Chavira** and this is my IT Profesional Toolkit for the class IT Strategy, Policy & Governance on the program [M.S in Information Technology](https://ccse.kennesaw.edu/it/programs/msit.php) in Kennesaw State University.
   </p>
-</div>
+</p>
 
 ## References :)
 Concept         | Author               | Link
