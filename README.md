@@ -21,10 +21,11 @@ Visit my Twitter [![alt text][1.1]][1] and Github [![alt text][6.1]][6] accounts
 ---
 
 ## References :)
-Concept         | Author               | Link
+Title           | Author               | Link
 ---             | ---                  | ---
-IT professional | [string, optional]   | [M.S in Information Technology](https://ccse.kennesaw.edu/it/programs/msit.php)
-IT Strategy     | [array, required]    | [M.S in Information Technology](https://ccse.kennesaw.edu/it/programs/msit.php)
+IT Policy Framework Based on COBIT 5                                    | Carrillo, J.                          | [Reference](tps://www.isaca.org/Journal/archives/2013/Volume-1/Pages/IT-Policy-Framework-Based-on-COBIT-5.aspx)
+What is IT governance? A formal way to align IT & business strategy     | Dynamix Solutions Managed IT Services | [Reference](https://www.dynamixsolutions.com/what-is-an-it-professional-and-what-does-one-do)
+What is an IT Professional And What Does One Do?                        | Kim Lindros                           | [Reference](https://www.cio.com/article/2438931/governance/governanceit-governance-definition-and-solutions.html)
 
 ## IT professional
 
@@ -65,3 +66,6 @@ They have a few instruments accessible in their site that appear to be useful. T
 __For my research__: IT Governance adjusts the IT systems in the business or organization standard. More often than not associations or companies pursue a system (for example COBIT 5) to quantify their results and guarantee their procedures when objectives are met. 
 
 
+## IT Professional Toolkit Slides
+
+[IT Professional Toolkit Slides](https://raw.githubusercontent.com/eduardogch/ksu-toolkit/master/IT7833_ Toolkit_Slides_jgonz102.pptx)
