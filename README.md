@@ -4,13 +4,22 @@
   <img src="https://raw.githubusercontent.com/eduardogch/ksu-toolkit/master/ksu.png" width="350" title="hover text">
 </p>
 
-First Header | Second Header
------------- | -------------
-Hello my name is **Jose Gonzalez Chavira** and this is my IT Profesional Toolkit for the class IT Strategy, Policy & Governance on the program [M.S in Information Technology](https://ccse.kennesaw.edu/it/programs/msit.php) in Kennesaw State University | <p align="center">
-  <img src="https://raw.githubusercontent.com/eduardogch/ksu-toolkit/master/ksu.png" width="350" title="hover text">
-</p>
+## Home
 
+<div>
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/eduardogch/ksu-toolkit/master/photo.jpg" width="200" title="hover text">
+  </p>
+  <p align="right">
+  Hello my name is **Jose Gonzalez Chavira** and this is my IT Profesional Toolkit for the class IT Strategy, Policy & Governance on the program [M.S in Information Technology](https://ccse.kennesaw.edu/it/programs/msit.php) in Kennesaw State University.
+  </p>
+</div>
 
+## References :)
+Concept         | Author               | Link
+---             | ---                  | ---
+IT professional | [string, optional]   | [M.S in Information Technology](https://ccse.kennesaw.edu/it/programs/msit.php)
+IT Strategy     | [array, required]    | [M.S in Information Technology](https://ccse.kennesaw.edu/it/programs/msit.php)
 
 ## IT professional
 
