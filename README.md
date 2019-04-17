@@ -1,19 +1,10 @@
 # Welcome to my **IT Profesional Toolkit** in GitHub Pages
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eduardogch/ksu-toolkit/master/ksu.png" width="350" title="hover text">
-</p>
+  <img src="https://raw.githubusercontent.com/eduardogch/ksu-toolkit/master/ksu.png" width="350" style="float: center;">
 
-## Home
+<img src="https://raw.githubusercontent.com/eduardogch/ksu-toolkit/master/photo.jpg" width="200" style="float: right;" />
 
-<p>
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/eduardogch/ksu-toolkit/master/photo.jpg" width="200" title="hover text">
-  </p>
-  <p align="right">
-  Hello my name is **Jose Gonzalez Chavira** and this is my IT Profesional Toolkit for the class IT Strategy, Policy & Governance on the program [M.S in Information Technology](https://ccse.kennesaw.edu/it/programs/msit.php) in Kennesaw State University.
-  </p>
-</p>
+Hello my name is **Jose Gonzalez Chavira** and this is my IT Profesional Toolkit for the class IT Strategy, Policy & Governance on the program [M.S in Information Technology](https://ccse.kennesaw.edu/it/programs/msit.php) in Kennesaw State University.
 
 ## References :)
 Concept         | Author               | Link
