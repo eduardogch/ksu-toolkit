@@ -4,11 +4,14 @@
   <img src="https://raw.githubusercontent.com/eduardogch/ksu-toolkit/master/ksu.png" width="350" style="float: center;">
 </p>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/eduardogch/ksu-toolkit/master/photo.jpg" width="200" style="float: right;" />
-</p>
+---
+
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/eduardogch/ksu-toolkit/master/photo.jpg">
 
 Hello my name is **Jose Gonzalez Chavira** and this is my IT Profesional Toolkit for the class IT Strategy, Policy & Governance on the program [M.S in Information Technology](https://ccse.kennesaw.edu/it/programs/msit.php) in Kennesaw State University.
+
+---
+
 
 ## References :)
 Concept         | Author               | Link
@@ -16,10 +19,12 @@ Concept         | Author               | Link
 IT professional | [string, optional]   | [M.S in Information Technology](https://ccse.kennesaw.edu/it/programs/msit.php)
 IT Strategy     | [array, required]    | [M.S in Information Technology](https://ccse.kennesaw.edu/it/programs/msit.php)
 
+---
 ## IT professional
 
 __For me__: An IT professional is an individual who has moral and specialized information about the IT business. IT experts are accountable for various assignments relying upon every company or association. 
 
+---
 ## IT Strategy
 
 There are numerous instruments accessible to help in the production of an **IT Strategy plan**. Subsequent to doing some online research there have numerous asset and modules to enable us to make a system plan. A portion of the instruments/modules include: 
