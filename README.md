@@ -68,4 +68,4 @@ __For my research__: IT Governance adjusts the IT systems in the business or org
 
 ## IT Professional Toolkit Slides
 
-[IT Professional Toolkit Slides](https://raw.githubusercontent.com/eduardogch/ksu-toolkit/master/IT7833_Toolkit_Slides_jgonz102.pptx)
+[IT Professional Toolkit Slides](https://raw.githubusercontent.com/eduardogch/ksu-toolkit/master/slides.pptx)
