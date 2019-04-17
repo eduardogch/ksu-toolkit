@@ -1,17 +1,13 @@
-## Welcome to my IT Profesional Toolkit GitHub Pages
-===================
+# Welcome to my **IT Profesional Toolkit** in GitHub Pages
 
-Hello my name is Jose Gonzalez Chavira and this is my IT Profesional Toolkit for the class IT Strategy, Policy & Governance on the program [M.S in Information Technology](https://ccse.kennesaw.edu/it/programs/msit.php) in Kennesaw State University 
-
+Hello my name is **Jose Gonzalez Chavira** and this is my IT Profesional Toolkit for the class IT Strategy, Policy & Governance on the program [M.S in Information Technology](https://ccse.kennesaw.edu/it/programs/msit.php) in Kennesaw State University 
 
 
-### IT professional
-===================
+## IT professional
 
 __For me__: An IT professional is an individual who has moral and specialized information about the IT business. IT experts are accountable for various assignments relying upon every company or association. 
 
-### IT Strategy
-===================
+## IT Strategy
 
 There are numerous instruments accessible to help in the production of an **IT Strategy plan**. Subsequent to doing some online research there have numerous asset and modules to enable us to make a system plan. A portion of the instruments/modules include: 
 
@@ -24,8 +20,7 @@ I investigated these assets and I discovered them extremely accommodating and us
 
 __For my research__: IT Strategy is a far reaching plan that portrays how innovation ought to be utilized in an organization or company to create innovation in business or organization process. 
 
-### IT Policy
-===================
+## IT Policy
 
 Present day association are embracing new apparatuses to make their **IT Policy**. In the wake of leading on the web explore I went over a this Garner report [Link](https://www.gartner.com/smarterwithgartner/gartner-top-10-strategic-technology-trends-for-2018/) has some economical fact that cutting-edge association are utilizing to make their IT strategies. 
 
@@ -37,8 +32,7 @@ I'm using Github because my I want an IT professional toolkit opensource and the
 __For my research__: IT policies or rules are made to enable associations to alleviate dangers, layout wanted conduct, and contribute in accomplishing organization's objectives. 
 
 
-### IT Governance
-===================
+## IT Governance
 
 Subsequent to doing on the web explore I found out about the fruitful formation of **IT Governance**. I didn't have an inkling how essential is the job of the IT administration in the general making of an IT engineering. 
 
