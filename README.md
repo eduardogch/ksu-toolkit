@@ -8,6 +8,14 @@
 
 Hello my name is **Jose Gonzalez Chavira** and this is my IT Profesional Toolkit for the class IT Strategy, Policy & Governance on the program [M.S in Information Technology](https://ccse.kennesaw.edu/it/programs/msit.php) in Kennesaw State University.
 
+Visit my Twitter [![alt text][1.1]][1] and Github [![alt text][6.1]][6] accounts.
+
+[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon with padding)
+[6.1]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+[1]: https://twitter.com/eduardochavira_
+[6]: http://www.github.com/eduardogch
+
 &nbsp;
 &nbsp;
 ---
