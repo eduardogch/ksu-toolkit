@@ -8,6 +8,8 @@
 
 Hello my name is **Jose Gonzalez Chavira** and this is my IT Profesional Toolkit for the class IT Strategy, Policy & Governance on the program [M.S in Information Technology](https://ccse.kennesaw.edu/it/programs/msit.php) in Kennesaw State University.
 
+&nbsp;
+&nbsp;
 ---
 
 ## References :)
